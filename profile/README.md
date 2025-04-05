@@ -57,10 +57,10 @@ This organization exists **exclusively** for the Hermes Fullstack project. It’
 
 We’re four EPITECH Brussels students collaborating on this Capstone for our **Cybersecurity Certification**:
 
-- **Student A** ([GitHub](#) / Email)  
-- **Student B** ([GitHub](#) / Email)  
-- **Student C** ([GitHub](#) / Email)  
-- **Student D** ([GitHub](#) / Email)
+- **Valentin Maurel**  
+- **Joseph Susanyan**
+- **Swann Lagoute**
+- **Antoine Girard**
 
 ---
 
